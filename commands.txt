@@ -1,0 +1,5 @@
+cd E:\DATA\Studies\Projects\Code\AI-ML\test\
+conda activate E:\DATA\Studies\Projects\Code\AI-ML\test\env
+
+
+https://www.kaggle.com/code/mwaseem75/cost-function-for-linear-regression
